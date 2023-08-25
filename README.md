@@ -30,9 +30,11 @@
 - ✅ CastraNova Tech – intelligent irrigation system (Keywords: Arduino, Sensors, Android/iOS, C++/C, Cloud)
 - ✅ Smart greenhouse with video surveillance (Keywords: Raspberry Pi, Camera, Sensors, Server, WEB, Cloud, Streaming, Alarm)
 
-🔗 Let's connect! Find me on [LinkedIn]([YourLinkedInProfileLink](https://www.linkedin.com/in/abderrahmanebenhalima/)) or drop me an email at abderrahmane.benhalima@univ-mascara.dz.
+📫 You can reach me via email at abderrahmane.benhalima@univ-mascara.dz or connect with me on [LinkedIn](https://www.linkedin.com/in/abderrahmanebenhalima/) for professional networking.
 
-📖 Curious about my journey? Read more on my personal website: [www.abenhalima.com]([YourWebsiteLink](https://abderrahmanebenhalima.github.io/Portfolio/))
+🐘 Find me on Mastodon too: [@_abderrahmane_](https://mastodon.social/@_abderrahmane_).
+
+🌐 Explore my portfolio: [Portfolio](https://abderrahmanebenhalima.github.io/Portfolio/)
 
 <!---
 abderrahmanebenhalima/abderrahmanebenhalima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
