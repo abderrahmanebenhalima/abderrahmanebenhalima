@@ -1,5 +1,5 @@
 <!---
-- 👋 Hi, I’m @abderrahmanebenhalima
+- 👋 Greetings, I’m @abderrahmanebenhalima
 - 👀 I’m interested in Networking and developping Android and Desktop Apps
 - 🌱 I’m currently learning Antenna Design and AI & ML too
 - 💞️ I’m looking to collaborate on ...
