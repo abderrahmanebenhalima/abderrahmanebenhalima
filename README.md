@@ -7,7 +7,7 @@
 --->
 # 👋 Hello, I'm Abderrahmane BENHALIMA
 
-🎓 PhD Student | 🌐 Network & Telecommunications Engineer | 💻 Programmer
+🎓 PhD Student | 🌐 Network & Telecommunications Engineer | 💻 Programmer | 📡 Antenna Designer
 
 📚 As a PhD student, I'm delving into the world of reconfigurable metamaterial-based components for medical applications. Using tools like CST and HFSS, I'm on a mission to advance medical technology.
 
